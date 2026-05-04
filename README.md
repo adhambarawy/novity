@@ -1,0 +1,2 @@
+# novity
+novity business model
